@@ -1,0 +1,37 @@
+﻿
+body {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    background-color: #fcfde7;
+    margin-right: 10%; margin-left: 10%;
+    margin-bottom: 25%; border:solid;
+    padding:10px;
+    background-image: url(/img/tes3.jpg);
+    background-size: 100%, auto;
+    background-repeat: no-repeat;
+}
+#index {
+    float:left;
+}
+#home {
+    width: 50px;
+    border: solid black
+}
+amendments {
+    padding-right:10px;
+}
+
+ol {
+    text-align: left;
+    list-style: none;
+    counter-reset: item;
+}
+
+ol li:before {
+    content: "Amendment " counter(item, Upper-Roman) ": ";
+    counter-increment: item;
+}
+
+a {
+font-family: 'Times New Roman', 'Times', 'sans-serif';
+}

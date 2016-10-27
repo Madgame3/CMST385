@@ -1,0 +1,11 @@
+3 Things to do for adding music
+
+1) link your .js file in the <head> of the html page.
+	Example: <script src="/audio/sound.js"></script>
+
+2) edit the .js file I sent you, directions in the file.
+
+3) Call the function in the page. I'm using onclick of an image file, you would use it in the onclick of your usemap. (see below)
+	<img onclick="sound1()" src="/audio/small-coffee.png" />
+
+4)Everything is case sensitive so beware of caps. 

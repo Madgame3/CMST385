@@ -1,0 +1,35 @@
+﻿body{
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight:500;  
+    text-align:left;
+    margin: auto;
+    width: 75%;
+    border: solid black;
+    padding: 5px;      
+    padding-bottom: 5%;
+}
+h1 {
+    text-decoration: underline; 
+    text-align: center;
+    margin-right: 65px;
+}
+mark {
+    background-color: palegreen;
+}
+em {
+    color: blue;
+
+}
+sup {
+    color: red;
+}
+#home {
+    width: 65px;
+    float: left;
+    }
+
+div {
+    background-color: lightyellow;
+    padding-bottom: 10px;
+}
