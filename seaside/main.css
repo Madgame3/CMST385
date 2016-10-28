@@ -16,7 +16,7 @@
     }
 #logo {
     width: 35%;
-}    
+}
 .nav{
     margin-right: auto;
     margin-left: auto;
@@ -25,7 +25,7 @@
     font-family: "Montserrat", sans-serif;
     }
 .nav-ul {
-    background-color: #EC4C4C;   
+    background-color: #EC4C4C;
     list-style-type:none;
     margin: 0px;
     padding: 0px;
@@ -92,7 +92,7 @@
     margin-left: auto;
     margin-top: 20px;
     margin-bottom: 5px;
-    
+
 }
 
 iframe{
@@ -116,11 +116,11 @@ iframe{
     width: 40%;
     text-align: center;
     margin-top: 2%;
-    
+
 }
 button {
     background-color: brown;
-    color: white;    
+    color: white;
     font-size: 150%;
     margin-right: 2%;
     padding: 5px;
@@ -165,7 +165,7 @@ button {
     padding-bottom: 50px;
     font-size: 100%;
     list-style-image: url("/seaside/img/small-pancake.jpg");
-    
+
 }
 #drinkmenu h1 {
     text-align: center;
@@ -193,7 +193,7 @@ button {
     padding: 2px;
 }
 .icons:hover {
-    background-color: grey;    
+    background-color: grey;
 }
 #owner h1 {
     text-align: center;
@@ -243,5 +243,5 @@ footer {
     width: 100%;
 }
     footer small {
-    font-style: italic; 
+    font-style: italic;
     }
